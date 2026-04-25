@@ -3,7 +3,7 @@
 from pathlib import Path
 
 # --- Paths ---
-ROOT           = Path(r"C:/Users/Matias/OneDrive/Documentos/jupyter/homework2")
+ROOT           = Path(r"C:\Users\Matias\OneDrive\Documentos\jupyter\emergency_access_peru-main")
 DATA_RAW       = ROOT / "data" / "raw"
 DATA_PROCESSED = ROOT / "data" / "processed"
 OUTPUT         = ROOT / "output"
